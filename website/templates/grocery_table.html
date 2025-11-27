@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" href="{{ url_for('static', filename='search_style.css') }}">
+</head>
+<h1>Grocery Table</h1>
+<a href="/" class="btn-back-top">Back to Home</a>
+{% if grocery %}
+    <table>
+        <thead>
+            <tr>
+                <th>product Name</th>
+                <th>Category</th>
+                <th>Supplier Name</th>
+                <th>Stock Quantity</th>
+                <th>Unit Price</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for item in grocery %}
+            <tr>
+                <td>{{ item['product_name']}}</td>
+                <td>{{ item['category']}}</td>
+                <td>{{ item['supplier_name']}}</td>
+                <td>{{ item['stock_quantity']}}</td>
+                <td>{{ item['unit_price']}}</td>
+            </tr>
+               {% endfor %}
+        </tbody>
+    </table>
+{% else %}
+    <p>No Grocery found.</p>
+{% endif %}

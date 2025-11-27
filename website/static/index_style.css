@@ -1,0 +1,44 @@
+/* Our index has 4 elements(body,logo,header and botton*/
+
+/* General body style */
+body {
+    font-family: 'Arial', sans-serif;
+    background: #f7f9fc;
+    display: flex;
+    flex-direction: column;
+    align-items: center;  /*logo*/
+}
+
+/* Logo image */
+.logo {
+    width: 160px;           /* logo width */
+    height: auto;           /* keep aspect ratio */
+    margin-bottom: 2rem;    /* space below logo */
+    border-radius: 20%;     /* rounded corners */
+    box-shadow: 0 4px 10px rgba(0,0,0,0.2); /* shadow effect */
+}
+
+/* Main heading */
+h1 {
+    font-size: 2.8rem;      /* heading size */
+    margin-bottom: 2rem;    /* space below heading */
+    color: #34495e;         /* heading color */
+    text-shadow: 1px 1px 3px rgba(0,0,0,0.2); /* small shadow */
+}
+
+/* Buttons style */
+button {
+    background-color: #3498db; /* button color */
+    color: white;               /* text color */
+    border: none;               /* remove border */
+    padding: 0.9rem 2rem;       /* padding inside button */
+    font-size: 1.1rem;          /* text size */
+    margin: 0.5rem;             /* space around buttons */
+    cursor: pointer;            /* mouse pointer on hover */
+    border-radius: 8px;         /* rounded corners */
+    transition: all 0.3s ease;  /* smooth hover effect */
+    box-shadow: 0 3px 6px rgba(0,0,0,0.15); /* shadow effect */
+}
+
+
+

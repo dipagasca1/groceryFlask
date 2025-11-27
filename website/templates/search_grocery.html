@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" href="{{ url_for('static', filename='search_style.css') }}">
+</head>
+
+<body>
+    <h1>Grocery List</h1>
+     
+    <!-- implement search function  -->
+    <form action="/search" method="get">  
+    <input type="text" name="query" placeholder="Search for a product">
+    <button type="submit">Search</button>
+    </form>
+    <!-- end change  -->
+{% if grocery %}
+    <table>
+        <thead>
+            <tr>
+                <th>product Name</th>
+                <th>Category</th>
+                <th>Supplier Name</th>
+                <th>Stock Quantity</th>
+                <th>Unit Price</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for item in grocery %}
+            <tr>
+                <td>{{ item['product_name']}}</td>
+                <td>{{ item['category']}}</td>
+                <td>{{ item['supplier_name']}}</td>
+                <td>{{ item['stock_quantity']}}</td>
+                <td>{{ item['unit_price']}}</td>
+            </tr>
+               {% endfor %}
+        </tbody>
+    </table>
+{% else %}
+    <p>No Grocery found.</p>
+{% endif %}
+<a href="/" class="btn-back-top">Back to Home</a>
+</body>
+</html>

@@ -1,0 +1,85 @@
+/* This style has the style of our tables, 
+it will be use by search_grocery and grocery_table*/
+
+body {
+    font-family: 'Arial', sans-serif;
+    background: #f7f9fc;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+/* Main heading */
+h1 {
+    font-size: 2.8rem;      /* heading size */
+    margin-bottom: 2rem;    /* space below heading */
+    color: #34495e;         /* heading color */
+    text-shadow: 1px 1px 3px rgba(0,0,0,0.2); /* small shadow */
+}
+
+/* Buttons style */
+button {
+    background-color: #3498db; /* button color */
+    color: white;               /* text color */
+    border: none;               /* remove border */
+    padding: 0.9rem 2rem;       /* padding inside button */
+    font-size: 1.1rem;          /* text size */
+    margin: 0.5rem;             /* space around buttons */
+    cursor: pointer;            /* mouse pointer on hover */
+    border-radius: 8px;         /* rounded corners */
+    transition: all 0.3s ease;  /* smooth hover effect */
+    box-shadow: 0 3px 6px rgba(0,0,0,0.15); /* shadow effect */
+}
+
+/* Input fields */
+input[type="text"] {
+    padding: 0.6rem 1rem;        /* inside spacing */
+    font-size: 1rem;             /* text size */
+    border-radius: 5px;          /* rounded corners */
+    border: 1px solid #ccc;      /* border color */
+    margin-right: 0.5rem;        /* space to next element */
+}
+table {
+    width: 90%;
+    margin: 20px auto;
+    border-collapse: collapse;  /* Merge borders for a clean look */
+    font-family: Arial, sans-serif;
+    background-color: #ffffff;  /* White background for the table */
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);  /* Soft shadow around the table */
+}
+
+/* Header style table */
+thead th {
+    background-color: #2c3e50;  /* Dark blue-gray header */
+    color: white;               /* White text for contrast */
+    padding: 12px;              /* Space inside header cells */
+    font-size: 1rem;
+    text-align: left;           /* Align header text to the left */
+}
+
+/* Body cells style  table*/
+tbody td {
+    padding: 10px;                           /* Space inside each cell */
+    border-bottom: 1px solid #5a5a5a;        /* Dark gray row divider lines */
+    color: #333;                              /* Dark text color */
+}
+
+/* Alternate row background color for readability */
+tbody tr:nth-child(even) {
+    background-color: #f5f5f5;  /* Light gray for even rows */
+}
+
+/* Back to Home button - top right */
+.btn-back-top {
+    position: absolute;          /* Position relative to page */
+    top: 20px;                   /* Distance from top */
+    right: 20px;                 /* Distance from right */
+    background-color: #e74c3c;   /* Red color for distinction */
+    color: white;
+    padding: 0.8rem 1.5rem;
+    border-radius: 5px;
+    text-decoration: none;       /* Remove underline */
+    font-size: 1rem;
+}
+
+

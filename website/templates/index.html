@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>  
+ <head>
+       <link rel="stylesheet" href="{{ url_for('static', filename='index_style.css') }}">
+ </head>
+
+<body>
+    <h1>Welcome to the Grocery App</h1>
+    <img src="{{ url_for('static', filename='logogrocery.png') }}" alt="Grocery Logo" class="logo">
+   
+    <form action="/grocery">
+        <button type="submit">Show Grocery</button>
+    </form>
+
+    <form action="/grocery_table">
+        <button type="submit">Show Grocery Table</button>
+    </form>
+</body>
+
+</html>

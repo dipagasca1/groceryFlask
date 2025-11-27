@@ -1,0 +1,122 @@
+Product_Name,Category,Supplier_Name,Stock_Quantity,Unit_Price
+Bell Pepper,Fruits & Vegetables,Eimbee,867,$4.60 
+Vegetable Oil,Oils & Fats,Digitube,335,$2.00 
+Parmesan Cheese,Dairy,BlogXS,593,$12.00 
+Carrot,Fruits & Vegetables,Avaveo,443,$1.50 
+Garlic,Fruits & Vegetables,Katz,179,$7.00 
+Lemon,Fruits & Vegetables,Yata,602,$2.40 
+Coconut Sugar,Grains & Pulses,Lazz,228,$5.00 
+Anchovies,Seafood,Zoonder,816,$10.00 
+Cheese,Dairy,Oozz,514,$9.00 
+Yogurt,Dairy,Jaxnation,608,$1.70 
+Cheddar Cheese,Dairy,Gabcube,585,$9.00 
+Avocado Oil,Oils & Fats,Dabtype,280,$10.00 
+Orange,Fruits & Vegetables,Flashdog,735,$2.90 
+Digestive Biscuit,Bakery,Devshare,577,$4.00 
+Cauliflower,Fruits & Vegetables,Cogilith,909,$2.50 
+Pear,Fruits & Vegetables,Roodel,537,$4.50 
+Egg (Turkey),Dairy,Bluezoom,540,$2.50 
+Ricotta Cheese,Dairy,Skimia,604,$6.20 
+Eggplant,Fruits & Vegetables,Blogpad,567,$3.00 
+Whole Wheat Flour,Grains & Pulses,Dabjam,472,$2.70 
+Arabica Coffee,Beverages,Feedmix,854,$20.00 
+Sweet Potato,Fruits & Vegetables,Trupe,433,$2.00 
+Mango,Fruits & Vegetables,Meevee,725,$4.80 
+Kale,Fruits & Vegetables,Blogpad,324,$4.00 
+Jasmine Rice,Grains & Pulses,Topicware,620,$4.75 
+Sourdough Bread,Bakery,Plajo,480,$4.00 
+Green Coffee,Beverages,Skyndu,407,$12.00 
+Tilapia,Seafood,Vinder,656,$7.00 
+Arborio Rice,Grains & Pulses,Geba,342,$4.50 
+Bread Flour,Grains & Pulses,Dazzlesphere,1120,$1.50 
+Cucumber,Fruits & Vegetables,Kanoodle,476,$1.80 
+Milk,Dairy,Centimia,160,$0.90 
+Lime,Fruits & Vegetables,Livefish,308,$2.00 
+Rice Flour,Grains & Pulses,Quatz,288,$2.00 
+Sour Cream,Dairy,Skyvu,278,$4.00 
+Whole Wheat Bread,Bakery,Lazz,202,$3.50 
+Robusta Coffee,Beverages,Devpulse,398,$10.00 
+Chocolate Biscuit,Bakery,Yodo,562,$5.00 
+Palm Oil,Oils & Fats,Skipstorm,430,$1.80 
+Sesame Oil,Oils & Fats,Dabtype,723,$6.50 
+Lettuce,Fruits & Vegetables,Fadeo,268,$2.00 
+Feta Cheese,Dairy,Rhynyx,534,$7.00 
+Apricot,Fruits & Vegetables,Skinix,477,$5.00 
+Peanut Oil,Oils & Fats,Tagopia,413,$4.00 
+Olive Oil,Oils & Fats,Realmix,346,$6.00 
+Egg (Duck),Dairy,Katz,450,$1.00 
+Pineapple,Fruits & Vegetables,Brainverse,420,$3.50 
+Trout,Seafood,Blogtag,517,$12.00 
+Onion,Fruits & Vegetables,Oba,543,$2.00 
+Cream,Dairy,Oyondu,304,$2.50 
+Sardines,Seafood,Eayo,371,$6.00 
+Plum,Fruits & Vegetables,Topicstorm,411,$4.00 
+Sushi Rice,Grains & Pulses,Katz,470,$4.25 
+Black Rice,Grains & Pulses,Vinder,680,$6.00 
+Wild Rice,Grains & Pulses,Wordpedia,392,$10.00 
+Pomegranate,Fruits & Vegetables,Meeveo,766,$6.00 
+Cabbage,Fruits & Vegetables,Lajo,522,$0.90 
+All-Purpose Flour,Grains & Pulses,Dabjam,#N/A,$1.75 
+Whipped Cream,Dairy,Yakitri,364,$4.00 
+Grapes,Fruits & Vegetables,Thoughtmix,820,$5.50 
+Sunflower Oil,Oils & Fats,Photofeed,341,$2.50 
+Short Grain Rice,Grains & Pulses,Katz,314,$4.50 
+Tuna,Seafood,Meemm,602,$18.00 
+Banana,Fruits & Vegetables,Youfeed,272,$53.82 
+Coconut,Fruits & Vegetables,Katz,396,$5.00 
+Almond Flour,Grains & Pulses,Trudoo,582,$9.50 
+Greek Yogurt,Dairy,Thoughtstorm,398,$3.00 
+Peach,Fruits & Vegetables,Youfeed,438,$4.00 
+Asparagus,Fruits & Vegetables,Yabox,438,$5.00 
+Mushrooms,Fruits & Vegetables,Yakijo,441,$6.00 
+Black Tea,Beverages,Kare,278,$4.70 
+White Tea,Beverages,Brightbean,592,$25.00 
+White Rice,Grains & Pulses,Tagcat,172,$1.80 
+Long Grain Rice,Grains & Pulses,Flashspan,455,$1.50 
+Rye Bread,Bakery,Brainlounge,431,$3.00 
+Egg (Goose),Dairy,Gabvine,748,$2.50 
+Brown Rice,Grains & Pulses,Viva,440,$2.50 
+Black Coffee,Beverages,Skyndu,517,$15.00 
+White Sugar,Grains & Pulses,Dazzlesphere,429,$2.00 
+Egg (Quail),Dairy,Realpoint,425,$0.80 
+Herbal Tea,Beverages,Pixonyx,292,$30.00 
+Coconut Oil,Oils & Fats,Gevee,266,$5.00 
+Buttermilk,Dairy,Zoombox,365,$2.45 
+Evaporated Milk,Dairy,Demivee,342,$2.00 
+Powdered Sugar,Grains & Pulses,Devbug,491,$2.50 
+Cod,Seafood,Kwimbee,359,$8.00 
+Kiwi,Fruits & Vegetables,Zooveo,258,$6.00 
+Haddock,Seafood,Kwimbee,799,$9.00 
+Tomato,Fruits & Vegetables,Demimbu,271,$2.50 
+Gouda Cheese,Dairy,Kamba,492,$7.00 
+Spinach,Fruits & Vegetables,Shuffledrive,330,$2.50 
+Canola Oil,Oils & Fats,Thoughtmix,575,$2.30 
+Basmati Rice,Grains & Pulses,Kanoodle,234,$4.50 
+Oatmeal Biscuit,Bakery,Kwimbee,294,$5.00 
+Green Beans,Fruits & Vegetables,Viva,415,$2.00 
+Apple,Fruits & Vegetables,Jabbersphere,417,$3.50 
+Peas,Fruits & Vegetables,Youbridge,383,$3.00 
+Cottage Cheese,Dairy,Feedmix,261,$4.80 
+Multigrain Bread,Bakery,Topicware,517,$3.20 
+Potato,Fruits & Vegetables,Thoughtbridge,194,$1.20 
+Halibut,Seafood,Wikibox,392,$20.00 
+Salmon,Seafood,Kamba,605,$15.00 
+Broccoli,Fruits & Vegetables,Abatz,604,$4.00 
+Corn Oil,Oils & Fats,Tagopia,414,$2.50 
+Strawberries,Fruits & Vegetables,Meevee,279,$5.90 
+Green Tea,Beverages,Photobug,484,$8.00 
+Swiss Cheese,Dairy,Reallinks,636,$8.00 
+Cherry,Fruits & Vegetables,Jabbersphere,159,$8.00 
+Zucchini,Fruits & Vegetables,Quimm,563,$2.50 
+Butter Biscuit,Bakery,Ozu,263,$6.00 
+Egg (Chicken),Dairy,Einti,306,$0.20 
+White Bread,Bakery,Tagfeed,586,$2.50 
+Watermelon,Fruits & Vegetables,Latz,461,$3.00 
+Vanilla Biscuit,Bakery,Ozu,263,$5.50 
+Papaya,Fruits & Vegetables,Twitterwire,429,$4.50 
+Butter,Dairy,Meembee,241,$3.10 
+Heavy Cream,Dairy,Ntags,546,$4.00 
+Blueberries,Fruits & Vegetables,Flipbug,428,$10.00 
+Mozzarella Cheese,Dairy,Devpoint,330,$7.20 
+Mackerel,Seafood,Dabfeed,484,$7.50 
+Raw Sugar,Grains & Pulses,Cogilith,312,$1.50 
